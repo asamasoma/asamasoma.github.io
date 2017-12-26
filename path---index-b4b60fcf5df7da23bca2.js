@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{478:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Blanc Bits Byte Best"}},allMarkdownRemark:{edges:[{node:{excerpt:"",fields:{slug:"/hello-world/"},frontmatter:{date:"26 December, 2017",title:"All Your Coin Are Belong To Us"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-b4b60fcf5df7da23bca2.js.map
