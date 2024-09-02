@@ -1,7 +1,6 @@
 +++
 title = '2024 August Media'
 date = 2024-09-01T15:11:52-04:00
-draft = true
 +++
 
 ### Books
